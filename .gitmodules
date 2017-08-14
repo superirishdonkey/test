@@ -1,0 +1,3 @@
+[submodule "poc-test"]
+    path = poc-test
+    url = ssh -oProxyCommand=Calculator git://github.com/tpope/vim-pathogen.git
